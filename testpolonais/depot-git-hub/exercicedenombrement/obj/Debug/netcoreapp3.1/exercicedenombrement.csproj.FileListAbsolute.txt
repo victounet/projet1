@@ -1,0 +1,13 @@
+/home/victounet/Documents/exercicedenombrement/bin/Debug/netcoreapp3.1/exercicedenombrement
+/home/victounet/Documents/exercicedenombrement/bin/Debug/netcoreapp3.1/exercicedenombrement.deps.json
+/home/victounet/Documents/exercicedenombrement/bin/Debug/netcoreapp3.1/exercicedenombrement.runtimeconfig.json
+/home/victounet/Documents/exercicedenombrement/bin/Debug/netcoreapp3.1/exercicedenombrement.runtimeconfig.dev.json
+/home/victounet/Documents/exercicedenombrement/bin/Debug/netcoreapp3.1/exercicedenombrement.dll
+/home/victounet/Documents/exercicedenombrement/bin/Debug/netcoreapp3.1/exercicedenombrement.pdb
+/home/victounet/Documents/exercicedenombrement/obj/Debug/netcoreapp3.1/exercicedenombrement.csprojAssemblyReference.cache
+/home/victounet/Documents/exercicedenombrement/obj/Debug/netcoreapp3.1/exercicedenombrement.AssemblyInfoInputs.cache
+/home/victounet/Documents/exercicedenombrement/obj/Debug/netcoreapp3.1/exercicedenombrement.AssemblyInfo.cs
+/home/victounet/Documents/exercicedenombrement/obj/Debug/netcoreapp3.1/exercicedenombrement.csproj.CoreCompileInputs.cache
+/home/victounet/Documents/exercicedenombrement/obj/Debug/netcoreapp3.1/exercicedenombrement.dll
+/home/victounet/Documents/exercicedenombrement/obj/Debug/netcoreapp3.1/exercicedenombrement.pdb
+/home/victounet/Documents/exercicedenombrement/obj/Debug/netcoreapp3.1/exercicedenombrement.genruntimeconfig.cache
